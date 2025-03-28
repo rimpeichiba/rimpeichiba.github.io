@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.18)  24 OCT 2024 14:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.18)  28 MAR 2025 10:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/rimpeichiba/Documents/Homepage/html5up-arcana/cv/cv.tex
-(/Users/rimpeichiba/Documents/Homepage/html5up-arcana/cv/cv.tex
+**/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.tex
+(/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/Users/rimpeichiba/Documents/Homepage/html5up-arcana/cv/res.cls
+(/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -58,7 +58,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@toks=\toks22
 \enit@inbox=\box26
 \enitdp@description=\count92
-) (/Users/rimpeichiba/Documents/Homepage/html5up-arcana/cv/cv.aux)
+) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -80,23 +80,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 107.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 111.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 107.
- [2] (/Users/rimpeichiba/Documents/Homepage/html5up-arcana/cv/cv.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 111.
+ [2] (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.aux) ) 
 Here is how much of TeX's memory you used:
  867 strings out of 492649
- 13186 string characters out of 6129621
+ 13263 string characters out of 6129621
  78794 words of memory out of 5000000
  4803 multiletter control sequences out of 15000+600000
  4906 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,33p,301b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,33p,308b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/rimpeichiba/Documents/Homepage/html5up-arcana/cv/cv.pdf (2 pages, 74425 bytes).
+Output written on /Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.pdf (2 pages, 74980 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
