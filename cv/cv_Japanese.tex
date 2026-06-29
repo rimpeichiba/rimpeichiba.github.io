@@ -1,0 +1,86 @@
+% https://www.rpi.edu/dept/arc/training/latex/resumes/
+% LaTeX resume using res.cls
+\documentclass[]{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\setlength{\textwidth}{5.1in} % set width of text portion
+%\usepackage[margin=1in]{geometry}
+%\usepackage[top=2cm,bottom=2cm,left=2cm,right=4cm]{geometry}
+
+
+\usepackage{etaremune}
+\renewcommand{\labelenumi}{[\theenumi]}
+\usepackage{enumitem }
+
+
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setCJKmainfont{Hiragino Mincho ProN}
+
+\setlength{\oddsidemargin}{-0.3in}
+\setlength{\evensidemargin}{-0.3in}
+
+
+\newsectionwidth{0.2in}
+\begin{document}
+
+% Center the name over the entire width of resume:
+ \moveleft.5\hoffset\centerline{\large\bf 千葉凜平 (Rimpei Chiba)}
+% Draw a horizontal line the whole width of resume:
+ \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% address begins here
+% Again, the address lines must be centered over entire width of resume:
+ %\moveleft.5\hoffset\centerline{Postdoctoral Fellow, Canadian Institute for Theoretical Astrophysics (CITA)}
+ %\moveleft.5\hoffset\centerline{University of Toronto, 60 St. George Street, Toronto, ON, M5S 3H8, Canada}
+ %\moveleft.5\hoffset\centerline{rchiba@cita.utozronto.ca}
+ \moveleft.5\hoffset\centerline{日本学術振興会特別研究員PD}
+ \moveleft.5\hoffset\centerline{東京大学~大学院理学系研究科~天文学専攻}
+
+\begin{resume}
+
+\section{連絡先}
+\noindent
+\begin{tabbing}
+    E-mail: rimpei-chiba@g.ecc.u-tokyo.ac.jp\\
+    ORCID: 0000-0002-3445-855X\\
+    ホームページ: https://rimpeichiba.github.io\\
+    電話番号: (+81) 07085933327\\
+    住所: 113-0033 東京都文京区本郷7-3-1 理学一号館11階1110号室
+\end{tabbing}
+
+\section{職歴}
+\noindent
+\begin{tabbing}
+  2025年4月 -- 現在 \hspace{16mm} \=東京大学~大学院理学系研究科~天文学専攻~特任研究員（学振PD）\\
+  2022年10月 -- 2025年4月 \>トロント大学~カナダ理論宇宙物理学研究所~リサーチフェロー
+\end{tabbing}
+
+\section{学歴}
+\noindent
+\begin{tabbing}
+  2018年9月 -- 2022年10月 \hspace{2mm} \=オックスフォード大学~物理学科~理論物理学専攻~博士課程（理学博士）\\
+  2016年3月 -- 2018年4月 \hspace{2mm} \>東京科学大学~工学院~機械系~修士課程（理学修士）\\ 
+  2016年9月 -- 2017年7月 \hspace{2mm} \>ウィーン工科大学~物理学科~交換留学 \\ 
+  2012年3月 -- 2016年4月 \hspace{2mm} \>東京科学大学~工学部~機械宇宙学科（工学学士）
+\end{tabbing}
+
+\section{受賞歴}
+\noindent
+\begin{tabbing}
+    2018年3月  \hspace{2mm} \=東京科学大学~優秀修士論文賞\\
+    2017年6月  \hspace{2mm} \>国際天文学連合IAU~シンポジウム335~ポスター発表賞
+\end{tabbing}
+
+%\input{publication}
+%\input{scholarships_awards}
+%\input{scientific_presentation}
+%\input{academic_services}
+%\input{skills}
+%\input{references}
+
+\end{resume}
+\end{document}
+
+
+
+

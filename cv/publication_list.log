@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.18)  4 DEC 2025 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.18)  29 JUN 2026 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -75,25 +75,25 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
  (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/publication
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
+(Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
-) [1
+(Font)              <5> on input line 21.
+ [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/publication_list.aux) ) 
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/publication_list.aux) ) 
 Here is how much of TeX's memory you used:
  851 strings out of 492649
  13192 string characters out of 6129621
- 78794 words of memory out of 5000000
+ 79794 words of memory out of 5000000
  4788 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,4n,33p,545b,176s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,4n,33p,545b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/publication_list.pdf (1 page, 64480 bytes).
+Output written on /Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/publication_list.pdf (2 pages, 65542 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
