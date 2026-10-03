@@ -1,105 +1,110 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.18)  22 JUL 2026 10:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.19)  3 OCT 2026 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.tex
 (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/res.cls
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
 )
-\tabular@text=\toks14
-\tabular@head=\toks15
-\tabular@tail=\toks16
-\@ta=\toks17
-\undefined@token=\toks18
-\sectionwidth=\dimen103
-\sectionskip=\skip43
-\resumewidth=\dimen104
-\@columnwidth=\dimen105
-\c@numberofcolumns=\count88
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/etaremune/etaremune.sty
+\tabular@text=\toks17
+\tabular@head=\toks18
+\tabular@tail=\toks19
+\@ta=\toks20
+\undefined@token=\toks21
+\sectionwidth=\dimen149
+\sectionskip=\skip51
+\resumewidth=\dimen150
+\@columnwidth=\dimen151
+\c@numberofcolumns=\count283
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/etaremune/etaremune.sty
 Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
- (/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
- (/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count89
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+\XKV@tempb@toks=\toks24
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count284
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\c@EM@itemctr=\count90
-\c@EM@etaremunectr=\count91
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\enitkv@toks@=\toks21
-\labelindent=\skip44
-\enit@outerparindent=\dimen106
-\enit@toks=\toks22
-\enit@inbox=\box26
-\enitdp@description=\count92
-) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.aux)
+\c@EM@itemctr=\count285
+\c@EM@etaremunectr=\count286
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\enitkv@toks@=\toks25
+\labelindent=\skip52
+\enit@outerparindent=\dimen152
+\enit@toks=\toks26
+\enit@inbox=\box53
+\enit@count@id=\count287
+\enitdp@description=\count288
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+) (./cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
- (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/employment) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/education) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/publication [1
+(Font)              <5> on input line 37.
+ (./employment) (./education) (./publication [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/scholarships_awards) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/scientific_presentation [2]) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/academic_services) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/skills) (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/references
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 3.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-) [3] (/Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.aux) ) 
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./scholarships_awards) (./scientific_presentation [2]) (./academic_services) (./skills) (./references) [3{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./cv.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 894 strings out of 492649
- 14614 string characters out of 6129621
- 79794 words of memory out of 5000000
- 4806 multiletter control sequences out of 15000+600000
- 4906 words of font info for 18 fonts, out of 8000000 for 9000
+ 1231 strings out of 467525
+ 21504 string characters out of 5418982
+ 445756 words of memory out of 5000000
+ 30175 multiletter control sequences out of 15000+600000
+ 629322 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,33p,531b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/rimpeichiba/Documents/Homepage/rimpeichiba.github.io/cv/cv.pdf (3 pages, 88331 bytes).
+ 49i,8n,52p,543b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on cv.pdf (3 pages, 99317 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
